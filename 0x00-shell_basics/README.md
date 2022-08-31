@@ -8,3 +8,4 @@ Display current directory contents
 	b.With user and group IDs displayed numerically
 	c.And hidden files (starting with .)
 A script that creates a directory named my_first_directory in the /tmp/ directory
+Moving a file betty from /tmp/ to /tmp/my_first_directory
