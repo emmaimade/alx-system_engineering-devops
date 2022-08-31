@@ -7,3 +7,4 @@ Display current directory contents
 	a.Long format
 	b.With user and group IDs displayed numerically
 	c.And hidden files (starting with .)
+A script that creates a directory named my_first_directory in the /tmp/ directory
