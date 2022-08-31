@@ -11,3 +11,4 @@ A script that creates a directory named my_first_directory in the /tmp/ director
 Moving a file betty from /tmp/ to /tmp/my_first_director
 Delete the file betty
 Delete the directory my_first_directory thats in the /tmp directory
+A script that the working director to the previous one
