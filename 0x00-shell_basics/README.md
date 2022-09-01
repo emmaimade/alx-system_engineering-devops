@@ -20,3 +20,4 @@ A script that moves all files beginning with an uppercase letter to the director
 Create a script that deletes all the files in the curreent working directory that end with the character ~
 A script that creates the directories welcome/, welcome/to/, welcome/to/school/ in the current directory
 A command that list all the directories of the current directory separated by commas
+Create a magic file school.mgc that can be used with the command file to detect School data files.
