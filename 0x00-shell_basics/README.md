@@ -15,3 +15,4 @@ A script that the working director to the previous one
 A script that lisk all files in the current, parent and /boot directories
 A script that prints the type of the file named iamafile
 Create a symbolic link to /bin/ls
+Create a script that copies all the HTML files from the current working directory to the parent directory
