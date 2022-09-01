@@ -12,3 +12,4 @@ Moving a file betty from /tmp/ to /tmp/my_first_director
 Delete the file betty
 Delete the directory my_first_directory thats in the /tmp directory
 A script that the working director to the previous one
+A script that lisk all files in the current, parent and /boot directories
